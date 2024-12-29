@@ -19,8 +19,9 @@
 - **LinkedIn**: [https://www.linkedin.com/in/nishant-patil307/](https://www.linkedin.com/in/nishant-patil307/) 
 - **GitHub**: [https://github.com/NishantPatil307](https://github.com/NishantPatil307)**
 
-- 📄 Know about my experiences [Resume] (https://drive.google.com/file/d/1pN8_k1eARvUAaaX9IBRuNdnZe0inc8Lz/view?usp=sharing) 
-With 1.3+ years of experience as a Full Stack Developer, I specialize in backend technologies like Node.js and Express.js, frontend development with React.js, and cloud deployment on AWS. I've worked on large-scale, high-performance applications, integrating technologies such as Redis for caching and Socket.io for real-time data updates.
+- 📄 Know about my experiences [Resume] (https://drive.google.com/file/d/1pN8_k1eARvUAaaX9IBRuNdnZe0inc8Lz/view?usp=sharing)
+
+- With 1.3+ years of experience as a Full Stack Developer, I specialize in backend technologies like Node.js and Express.js, frontend development with React.js, and cloud deployment on AWS. I've worked on large-scale, high-performance applications, integrating technologies such as Redis for caching and Socket.io for real-time data updates.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,6 +53,9 @@ With 1.3+ years of experience as a Full Stack Developer, I specialize in backend
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
+</p>
+
+<p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
@@ -64,6 +68,9 @@ With 1.3+ years of experience as a Full Stack Developer, I specialize in backend
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
   </a> 
+</p>
+
+<p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
