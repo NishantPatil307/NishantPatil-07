@@ -3,7 +3,13 @@
 
 - 🔭 I’m currently working on **Telegram Mini apps and Ai Agents**
 
-- 🌱 I’m currently learning **AWS, Docker and Kubernetes**
+- 💼 My core skills include:
+- **Front End:** JavaScript, React.js, Redux, TypeScript, HTML5, CSS3, Bootstrap, Tailwind CSS
+- **Backend Technologies:** Node.js, Express.js, RESTful APIs, GraphQL, Socket.io, Redis, JWT, TypeScript
+- **Databases and Development Tools:** MongoDB, MySQL, Redis
+
+- 🌱 I’m currently learning 
+- **DevOps & Cloud:**  AWS (EC2, S3), Nginx, PM2, Jenkins, GitHub Actions, Docker, Kubernetes 
 
 - 👨‍💻 All of my projects are available at [https://github.com/NishantPatil307](https://github.com/NishantPatil307)
 
